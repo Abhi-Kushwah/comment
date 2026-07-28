@@ -8,7 +8,6 @@ public class Comment{
        System.out.println("Value x :"+x); 
     }
 }
-
 //This is a single-line comment 
 
 /*
